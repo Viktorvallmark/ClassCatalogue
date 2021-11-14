@@ -1,0 +1,20 @@
+1 James 8 8 9 4
+2 Mary 2 8 5 9
+3 Robert 7 6 8 2
+4 Patricia 7 2 8 6
+5 John 2 5 2 8
+6 Jennifer 5 2 8 4
+7 Michael 1 8 9 4
+8 Linda 7 5 8 6
+9 William 2 7 4 1
+10 Elizabeth 5 7 8 1
+11 David 7 9 0 0
+12 Barbara 7 7 5 1
+13 Richard 3 8 8 2
+14 Susan 2 2 7 8 9
+15 Joseph 1 1 7 9
+16 Jessica 3 1 8 9
+17 Thomas 4 8 4 7
+18 Sarah 2 5 3 9
+19 Charles 7 8 2 2
+20 Karen 6 2 7 8
